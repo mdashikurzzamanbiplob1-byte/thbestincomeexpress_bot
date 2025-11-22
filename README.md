@@ -1,11 +1,10 @@
-
 <!DOCTYPE html>
 <html lang="bn">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>টাকা আয় করুন - বিজ্ঞাপন দেখুন</title>
-   <script src='//libtl.com/sdk.js' data-zone='10216540' data-sdk='show_10216540'></script>
+    <script src='//libtl.com/sdk.js' data-zone='10216540' data-sdk='show_10216540'></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <style>
         :root {
@@ -722,8 +721,8 @@
 
     <script>
         // Constants
-        const POINTS_PER_AD = 2.00; // প্রতি বিজ্ঞাপনে ২ টাকা
-        const MIN_WITHDRAW_TAKA = 20; // ন্যূনতম উত্তোলন ২০ টাকা
+        const POINTS_PER_AD = 2.00; // প্রতি বিজ্ঞাপনে 0.5 টাকা
+        const MIN_WITHDRAW_TAKA = 20; // ন্যূনতম উত্তোলন 500 টাকা
         const REFERRAL_BONUS = 5.00; // রেফারেল বোনাস ৫ টাকা
         
         // Telegram Bot Configuration - এখানে আপনার বটের তথ্য দিন
@@ -1157,4 +1156,3 @@
     </script>
 </body>
 </html>
-
